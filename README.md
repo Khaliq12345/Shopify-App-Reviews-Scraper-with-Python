@@ -17,5 +17,6 @@ The provided scraper is tailored to the current structure and layout of the Shop
 If the website structure changes significantly, the scraper may require adjustments to function correctly.
 
 ## Acknowledgments
-The project uses the Requests_html library for web scraping. (https://requests.readthedocs.io/projects/requests-html/en/latest/)
-The Requests library is used to handle HTTP requests. (https://github.com/jnrbsn/python-latest-user-agents)
+Requests_html. (https://requests.readthedocs.io/projects/requests-html/en/latest/)
+
+python-latest-user-agents: (https://github.com/jnrbsn/python-latest-user-agents)
