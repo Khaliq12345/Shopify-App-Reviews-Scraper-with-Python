@@ -13,7 +13,7 @@ latest_user_agents
 ## Notes
 Please be mindful of the website's terms of service and policies while scraping. 
 Ensure that your scraping activities are legal and respectful of the website's resources.
-The provided scraper is tailored to the current structure and layout of the Aldo Shoes website. 
+The provided scraper is tailored to the current structure and layout of the Shopify website. 
 If the website structure changes significantly, the scraper may require adjustments to function correctly.
 
 ## Acknowledgments
